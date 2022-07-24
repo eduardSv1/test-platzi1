@@ -4,15 +4,19 @@
  1️⃣ Responde las siguientes preguntas:
  
 ¿Qué es una variable y para qué sirve?
-es el espacio que ocupa en memoria una "palabra " definida.
+
+Es el espacio que ocupa en memoria una "palabra " definida.
 
 ¿Cuál es la diferencia entre declarar e inicializar una variable?
-al declarar la variable asignamos el nombre de la misma mientras que al  inicializar ademas de asignar el nombre se le asigna un valor. 
+
+Al declarar la variable asignamos el nombre de la misma mientras que al  inicializar ademas de asignar el nombre se le asigna un valor. 
 
 ¿Cuál es la diferencia entre sumar números y concatenar strings?
-al sumar numero se esta ejecutando una operacion numerica, mientras que concatenar se ejecuta una "operacion" alfabetica.
+
+Al sumar numero se esta ejecutando una operacion numerica, mientras que concatenar se ejecuta una "operacion" alfabetica.
 
 ¿Cuál operador me permite sumar o concatenar?
+
 +
 
 2️⃣ Determina el nombre y tipo de dato para almacenar en variables la siguiente información:
