@@ -84,7 +84,7 @@ Existe IF, ELSE IF,  ELSE y el SWITCH, la diferencia entre ellas es que if y els
 Mientras que el SWITCH se utiliza para evualuar cada caso (verichica si el caso 1 se cumple, si no se cumple pasa al caso dos y asi sucesivamente) 
 
 ¿Puedo combinar funciones y condicionales?
-Si, si se puede convinar dentro de las  funciones las condicionales. 
+Si, si se puede combinar dentro de las  funciones las condicionales. 
 
 2️⃣ Replica el comportamiento del siguiente código que usa la sentencia switch utilizando if, else y else if:
 const tipoDeSuscripcion = "Basic";
@@ -122,14 +122,29 @@ switch (tipoDeSuscripcion) {
 
 
 3️⃣ Replica el comportamiento de tu condicional anterior con if, else y else if, pero ahora solo con if (sin else ni else if).
+
 💡 Bonus: si ya eres una experta o experto en el lenguaje, te desafío a comentar cómo replicar este comportamiento con arrays u objetos y un solo condicional. 😏
+ aun no soy un experto en el lenguaje xD 
  
-Ciclos
-1️⃣ Responde las siguientes preguntas en la sección de comentarios:
+                                                                    Ciclos
+1️⃣ Responde las siguientes preguntas:
+
 ¿Qué es un ciclo?
+
+ Es una repetitiva de iteracion finita. 
+
 ¿Qué tipos de ciclos existen en JavaScript?
+
+existen FOR, WHILE.
+
 ¿Qué es un ciclo infinito y por qué es un problema?
+Un ciclo inifinito es cuando una sentencia no se cumple y queda el ciclo ejecutandose infinitamente creando asi un BUG. Es problema ya que el codigo no se termina ejecutando  corrtectamtente.
+
 ¿Puedo mezclar ciclos y condicionales?
+
+SI,si se puede. 
+
+
 2️⃣ Replica el comportamiento de los siguientes ciclos for utilizando ciclos while:
 for (let i = 0; i < 5; i++) {
     console.log("El valor de i es: " + i);
