@@ -22,13 +22,21 @@ Al sumar numero se esta ejecutando una operacion numerica, mientras que concaten
 2️⃣ Determina el nombre y tipo de dato para almacenar en variables la siguiente información:
 
 Nombre: String
+
 Apellido: String
+
 Nombre de usuario en Platzi: String
+
 Edad: num
+
 Correo electrónico: String
+
 Mayor de edad: Booleam
+
 Dinero ahorrado: num
+
 Deudas: num
+
 
 3️⃣ Traduce a código JavaScript las variables del ejemplo anterior y deja tu código en los comentarios.
 
