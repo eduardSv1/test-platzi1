@@ -81,7 +81,7 @@ Es una expresion que nos permite evaluar si es verdadero o no.
 ¿Qué tipos de condicionales existen en JavaScript y cuáles son sus diferencias?
 
 Existe IF, ELSE IF,  ELSE y el SWITCH, la diferencia entre ellas es que if y else se usa en casos de que ((IF)si es esto es cierto has (bloque de codigo), (ELSE IF) (si esta otra cosa) es cierta has (bolque de datos), ((SI NO) ELSE HAZ ESTO);
-Mientras que el SWITCH se utiliza para evualuar cada caso (verichica si el caso 1 se cumple, si no se cumple pasa al caso dos y asi sucesivamente) 
+Mientras que el SWITCH se utiliza para evualuar cada caso (verifica si el caso 1 se cumple, si no se cumple pasa al caso dos y asi sucesivamente) 
 
 ¿Puedo combinar funciones y condicionales?
 Si, si se puede combinar dentro de las  funciones las condicionales. 
@@ -146,22 +146,52 @@ SI,si se puede.
 
 
 2️⃣ Replica el comportamiento de los siguientes ciclos for utilizando ciclos while:
+
 for (let i = 0; i < 5; i++) {
+
     console.log("El valor de i es: " + i);
+    
 }
+
 
 for (let i = 10; i >= 2; i--) {
+
     console.log("El valor de i es: " + i);
+    
 }
+
+![image](https://user-images.githubusercontent.com/83262052/180663524-c526335c-1e70-494b-9201-5a6d90c8d405.png)
+
+
+
 3️⃣ Escribe un código en JavaScript que le pregunte a los usuarios cuánto es 2 + 2. Si responden bien, mostramos un mensaje de felicitaciones, pero si responden mal, volvemos a empezar.
+
 💡 Pista: puedes usar la función prompt de JavaScript.
 
+![image](https://user-images.githubusercontent.com/83262052/180666259-d195f3d8-7080-4db1-8d10-6ca9674bd287.png)
+
+
 Listas
-1️⃣ Responde las siguientes preguntas en la sección de comentarios:
+1️⃣ Responde las siguientes preguntas:
+
 ¿Qué es un array?
+
+Es una estructura de datos de tipo objeto.
+
 ¿Qué es un objeto?
+
+es un conjunto de datos relacionados con multiple variables y sus valores, es como una especie de caja donde se almacena  muhcas variables y sus  valores. 
+
 ¿Cuándo es mejor usar objetos o arrays?
+
+es mejor usar objetos cuando la cantidad de variables es muy alta. 
+
 ¿Puedo mezclar arrays con objetos o incluso objetos con arrays?
+
+si se puede.
+
 2️⃣ Crea una función que pueda recibir cualquier array como parámetro e imprima su primer elemento.
+
+
 3️⃣ Crea una función que pueda recibir cualquier array como parámetro e imprima todos sus elementos uno por uno (no se vale imprimir el array completo).
 4️⃣ Crea una función que pueda recibir cualquier objeto como parámetro e imprima todos sus elementos uno por uno (no se vale imprimir el objeto completo).
