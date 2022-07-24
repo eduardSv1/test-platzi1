@@ -200,6 +200,15 @@ si se puede.
 
 2️⃣ Crea una función que pueda recibir cualquier array como parámetro e imprima su primer elemento.
 
+![image](https://user-images.githubusercontent.com/83262052/180667992-118fbcbc-c215-46e6-b6ae-987c04fcc4b5.png)
 
 3️⃣ Crea una función que pueda recibir cualquier array como parámetro e imprima todos sus elementos uno por uno (no se vale imprimir el array completo).
-4️⃣ Crea una función que pueda recibir cualquier objeto como parámetro e imprima todos sus elementos uno por uno (no se vale imprimir el objeto completo).
+
+![image](https://user-images.githubusercontent.com/83262052/180668981-33eeefd5-9146-4229-9e87-c5ecbebfb757.png)
+
+
+
+
+
+
+
