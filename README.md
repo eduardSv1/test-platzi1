@@ -26,7 +26,7 @@ Apellido: String
 Nombre de usuario en Platzi: String
 Edad: num
 Correo electrónico: String
-Mayor de edad: True
+Mayor de edad: Booleam
 Dinero ahorrado: num
 Deudas: num
 
@@ -44,7 +44,8 @@ Dinero real (dinero ahorrado menos deudas)
 
 
                                                                   Funciones
-1️⃣ Responde las siguientes preguntas en la sección de comentarios:
+1️⃣ Responde las siguientes preguntas.
+
 ¿Qué es una función?
 
 Es un conjunto de sentencias que se ejcuta con variables (parametos y argumentos).
@@ -59,6 +60,7 @@ El parametro es lo que la funcion llama, mientras el argumento es lo que nosotro
 
 
 2️⃣ Convierte el siguiente código en una función, pero, cambiando cuando sea necesario las variables constantes por parámetros y argumentos en una función:
+
 const name = "Juan David";
 const lastname = "Castro Gallego";
 const completeName = name + lastname;
@@ -69,28 +71,56 @@ console.log("Mi nombre es " + completeName + ", pero prefiero que me digas " + n
 ![image](https://user-images.githubusercontent.com/83262052/180662570-05403dbd-3456-4e16-8eca-2be34175d482.png)
 
 
-Condicionales
+                                                                  Condicionales
 1️⃣ Responde las siguientes preguntas en la sección de comentarios:
+
 ¿Qué es un condicional?
+
+Es una expresion que nos permite evaluar si es verdadero o no. 
+
 ¿Qué tipos de condicionales existen en JavaScript y cuáles son sus diferencias?
+
+Existe IF, ELSE IF,  ELSE y el SWITCH, la diferencia entre ellas es que if y else se usa en casos de que ((IF)si es esto es cierto has (bloque de codigo), (ELSE IF) (si esta otra cosa) es cierta has (bolque de datos), ((SI NO) ELSE HAZ ESTO);
+Mientras que el SWITCH se utiliza para evualuar cada caso (verichica si el caso 1 se cumple, si no se cumple pasa al caso dos y asi sucesivamente) 
+
 ¿Puedo combinar funciones y condicionales?
+Si, si se puede convinar dentro de las  funciones las condicionales. 
+
 2️⃣ Replica el comportamiento del siguiente código que usa la sentencia switch utilizando if, else y else if:
 const tipoDeSuscripcion = "Basic";
 
 switch (tipoDeSuscripcion) {
+
    case "Free":
+   
        console.log("Solo puedes tomar los cursos gratis");
+       
        break;
+       
    case "Basic":
+   
        console.log("Puedes tomar casi todos los cursos de Platzi durante un mes");
+       
        break;
+       
    case "Expert":
+   
        console.log("Puedes tomar casi todos los cursos de Platzi durante un año");
+       
        break;
+       
    case "ExpertPlus":
+   
        console.log("Tú y alguien más pueden tomar TODOS los cursos de Platzi durante un año");
+       
        break;
+       
 }
+
+
+![image](https://user-images.githubusercontent.com/83262052/180663027-1454bcda-b616-4a79-93cb-8a4edfed6e60.png)
+
+
 3️⃣ Replica el comportamiento de tu condicional anterior con if, else y else if, pero ahora solo con if (sin else ni else if).
 💡 Bonus: si ya eres una experta o experto en el lenguaje, te desafío a comentar cómo replicar este comportamiento con arrays u objetos y un solo condicional. 😏
  
