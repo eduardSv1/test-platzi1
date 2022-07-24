@@ -1,15 +1,16 @@
 # test platzi1
  respuesta del primer test del curso practico basico de JS
  
- 1️⃣ Responde las siguientes preguntas en la sección de comentarios:
+ 1️⃣ Responde las siguientes preguntas:
+ 
 ¿Qué es una variable y para qué sirve?
 es el espacio que ocupa en memoria una "palabra " definida.
 
 ¿Cuál es la diferencia entre declarar e inicializar una variable?
-al declarar la variable asignamos el valor de la misma mientras que al  inicializar se le asigna un valor. 
+al declarar la variable asignamos el nombre de la misma mientras que al  inicializar ademas de asignar el nombre se le asigna un valor. 
 
 ¿Cuál es la diferencia entre sumar números y concatenar strings?
-
+al sumar numero se esta ejecutando una operacion numerica, mientras que concatenar se ejecuta una "operacion" al
 ¿Cuál operador me permite sumar o concatenar?
 2️⃣ Determina el nombre y tipo de dato para almacenar en variables la siguiente información:
 Nombre
