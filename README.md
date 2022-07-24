@@ -46,9 +46,18 @@ Dinero real (dinero ahorrado menos deudas)
                                                                   Funciones
 1️⃣ Responde las siguientes preguntas en la sección de comentarios:
 ¿Qué es una función?
-Es un 
+
+Es un conjunto de sentencias que se ejcuta con variables (parametos y argumentos).
+
 ¿Cuándo me sirve usar una función en mi código?
+
+Sirve para "automatizar" un procedimineto, y asi optimizar el codigo. 
+
 ¿Cuál es la diferencia entre parámetros y argumentos de una función?
+
+El parametro es lo que la funcion llama, mientras el argumento es lo que nosotro le asignamos a la funcion.
+
+
 2️⃣ Convierte el siguiente código en una función, pero, cambiando cuando sea necesario las variables constantes por parámetros y argumentos en una función:
 const name = "Juan David";
 const lastname = "Castro Gallego";
@@ -56,6 +65,10 @@ const completeName = name + lastname;
 const nickname = "juandc";
 
 console.log("Mi nombre es " + completeName + ", pero prefiero que me digas " + nickname + ".");
+
+![image](https://user-images.githubusercontent.com/83262052/180662570-05403dbd-3456-4e16-8eca-2be34175d482.png)
+
+
 Condicionales
 1️⃣ Responde las siguientes preguntas en la sección de comentarios:
 ¿Qué es un condicional?
